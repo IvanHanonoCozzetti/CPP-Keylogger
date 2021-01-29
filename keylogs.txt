@@ -1,1 +1,1 @@
-Keys pressed will be saved here
+Keys pressed will be saved here, including *Enter* / *Shift* / *Ctrl* / *Tab* / *Alt* / *CapsLock* / *rclick* / *lclick* and spaces.
